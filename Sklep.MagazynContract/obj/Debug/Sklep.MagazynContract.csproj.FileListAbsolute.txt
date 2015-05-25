@@ -1,0 +1,8 @@
+D:\probny program\Projekt\Sklep.MagazynContract\bin\Debug\Sklep.MagazynContract.dll
+D:\probny program\Projekt\Sklep.MagazynContract\bin\Debug\Sklep.MagazynContract.pdb
+D:\probny program\Projekt\Sklep.MagazynContract\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.MagazynContract\bin\Debug\TworzenieUżytkownikow.dll
+D:\probny program\Projekt\Sklep.MagazynContract\bin\Debug\ZarządzanieBazą.dll
+D:\probny program\Projekt\Sklep.MagazynContract\obj\Debug\Sklep.MagazynContract.dll
+D:\probny program\Projekt\Sklep.MagazynContract\obj\Debug\Sklep.MagazynContract.pdb
+D:\probny program\Projekt\Sklep.MagazynContract\obj\Debug\Sklep.MagazynContract.csprojResolveAssemblyReference.cache

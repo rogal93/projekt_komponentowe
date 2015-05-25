@@ -1,0 +1,10 @@
+D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe.config
+D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe
+D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.pdb
+D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.Contract.dll
+D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.Contract.pdb
+D:\probny program\Projekt\Czat.HostWS\obj\Debug\Czat.HostWS.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Czat.HostWS\obj\Debug\Czat.HostWS.ProjectInstaller.resources
+D:\probny program\Projekt\Czat.HostWS\obj\Debug\Czat.HostWS.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Czat.HostWS\obj\Debug\Czat.HostWS.exe
+D:\probny program\Projekt\Czat.HostWS\obj\Debug\Czat.HostWS.pdb

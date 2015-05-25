@@ -1,0 +1,8 @@
+D:\probny program\Projekt\Sklep.UI.Logowanie\bin\Debug\Sklep.UI.Logowanie.dll
+D:\probny program\Projekt\Sklep.UI.Logowanie\bin\Debug\Sklep.UI.Logowanie.pdb
+D:\probny program\Projekt\Sklep.UI.Logowanie\obj\Debug\Sklep.UI.Logowanie.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Logowanie\obj\Debug\Sklep.UI.Logowanie.LogowanieControl.resources
+D:\probny program\Projekt\Sklep.UI.Logowanie\obj\Debug\Sklep.UI.Logowanie.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Logowanie\obj\Debug\Sklep.UI.Logowanie.dll
+D:\probny program\Projekt\Sklep.UI.Logowanie\obj\Debug\Sklep.UI.Logowanie.pdb
+D:\probny program\Projekt\Sklep.UI.Logowanie\bin\Debug\Contract.dll

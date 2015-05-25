@@ -1,0 +1,8 @@
+D:\probny program\Projekt\Sklep.UI.Admin\bin\Debug\Sklep.UI.Admin.dll
+D:\probny program\Projekt\Sklep.UI.Admin\bin\Debug\Sklep.UI.Admin.pdb
+D:\probny program\Projekt\Sklep.UI.Admin\obj\Debug\Sklep.UI.Admin.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Admin\obj\Debug\Sklep.UI.Admin.AdminControl.resources
+D:\probny program\Projekt\Sklep.UI.Admin\obj\Debug\Sklep.UI.Admin.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Admin\obj\Debug\Sklep.UI.Admin.dll
+D:\probny program\Projekt\Sklep.UI.Admin\obj\Debug\Sklep.UI.Admin.pdb
+D:\probny program\Projekt\Sklep.UI.Admin\bin\Debug\Contract.dll

@@ -1,0 +1,10 @@
+D:\probny program\Projekt\Sklep.UI.Newsletter\bin\Debug\Sklep.UI.Newsletter.dll
+D:\probny program\Projekt\Sklep.UI.Newsletter\bin\Debug\Sklep.UI.Newsletter.pdb
+D:\probny program\Projekt\Sklep.UI.Newsletter\obj\Debug\Sklep.UI.Newsletter.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Newsletter\obj\Debug\Sklep.UI.Newsletter.NewsletterControl.resources
+D:\probny program\Projekt\Sklep.UI.Newsletter\obj\Debug\Sklep.UI.Newsletter.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Newsletter\obj\Debug\Sklep.UI.Newsletter.dll
+D:\probny program\Projekt\Sklep.UI.Newsletter\obj\Debug\Sklep.UI.Newsletter.pdb
+D:\probny program\Projekt\Sklep.UI.Newsletter\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.UI.Newsletter\bin\Debug\Sklep.UI.Logowanie.dll
+D:\probny program\Projekt\Sklep.UI.Newsletter\bin\Debug\Sklep.UI.Logowanie.pdb

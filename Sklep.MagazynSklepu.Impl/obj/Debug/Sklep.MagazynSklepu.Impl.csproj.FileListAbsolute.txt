@@ -1,0 +1,21 @@
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Impl.dll
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Impl.pdb
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Contract.dll
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\KomunikacjaService.dll
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Contract.pdb
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\KomunikacjaService.pdb
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.dll
+c:\users\damian\documents\visual studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Contract.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Contract.pdb
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\obj\Debug\Sklep.MagazynSklepu.Impl.pdb
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Impl.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynSklepu.Impl.pdb
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\TworzenieUżytkownikow.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\ZarządzanieBazą.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynContract.dll
+D:\probny program\Projekt\Sklep.MagazynSklepu.Impl\bin\Debug\Sklep.MagazynContract.pdb

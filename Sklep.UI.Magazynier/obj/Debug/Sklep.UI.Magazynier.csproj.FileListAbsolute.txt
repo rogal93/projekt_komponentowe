@@ -1,0 +1,14 @@
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.UI.Magazynier.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.UI.Magazynier.pdb
+D:\probny program\Projekt\Sklep.UI.Magazynier\obj\Debug\Sklep.UI.Magazynier.MagazynierControls.resources
+D:\probny program\Projekt\Sklep.UI.Magazynier\obj\Debug\Sklep.UI.Magazynier.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Magazynier\obj\Debug\Sklep.UI.Magazynier.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\obj\Debug\Sklep.UI.Magazynier.pdb
+D:\probny program\Projekt\Sklep.UI.Magazynier\obj\Debug\Sklep.UI.Magazynier.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.MagazynContract.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.MagazynContract.pdb
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.MagazynSklepu.Impl.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.MagazynSklepu.Impl.pdb
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.UI.Logowanie.dll
+D:\probny program\Projekt\Sklep.UI.Magazynier\bin\Debug\Sklep.UI.Logowanie.pdb

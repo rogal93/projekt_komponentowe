@@ -1,0 +1,14 @@
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Sklep.UI.Komunikator.dll.config
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Sklep.UI.Komunikator.dll
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Sklep.UI.Komunikator.pdb
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.KomunikatorControl.resources
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.dll
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.pdb
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Sklep.UI.Logowanie.dll
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Sklep.UI.Logowanie.pdb
+D:\probny program\Projekt\Sklep.UI.Komunikator\obj\Debug\Sklep.UI.Komunikator.Properties.Resources.resources
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Czat.Contract.dll
+D:\probny program\Projekt\Sklep.UI.Komunikator\bin\Debug\Czat.Contract.pdb

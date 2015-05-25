@@ -1,0 +1,13 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\bin\Debug\Newsletter.Impl.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\bin\Debug\Newsletter.Impl.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\bin\Debug\KomunikacjaService.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\bin\Debug\KomunikacjaService.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\obj\Debug\Newsletter.Impl.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\obj\Debug\Newsletter.Impl.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Kompot vol 1\Newsletter.Impl\obj\Debug\Newsletter.Impl.pdb
+D:\probny program\Projekt\Newsletter.Impl\bin\Debug\Newsletter.Impl.dll
+D:\probny program\Projekt\Newsletter.Impl\bin\Debug\Newsletter.Impl.pdb
+D:\probny program\Projekt\Newsletter.Impl\obj\Debug\Newsletter.Impl.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Newsletter.Impl\obj\Debug\Newsletter.Impl.dll
+D:\probny program\Projekt\Newsletter.Impl\obj\Debug\Newsletter.Impl.pdb
+D:\probny program\Projekt\Newsletter.Impl\bin\Debug\Contract.dll

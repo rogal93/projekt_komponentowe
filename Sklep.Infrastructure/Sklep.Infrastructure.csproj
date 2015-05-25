@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3AA6548-0052-401E-A4FC-2A40EB3F766E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sklep.Infrastructure</RootNamespace>
+    <AssemblyName>Sklep.Infrastructure</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Contract, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Contract\Contract.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject">
+      <HintPath>..\packages\Ninject.3.0.1.10\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Extensions.Conventions">
+      <HintPath>..\packages\ninject.extensions.conventions.3.0.0.11\lib\net45-full\Ninject.Extensions.Conventions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TworzenieUżytkownikow, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Uzytkownicy\TworzenieUżytkownikow.dll</HintPath>
+    </Reference>
+    <Reference Include="ZarządzanieBazą, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ZarzadzanieBaza\ZarządzanieBazą.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BazaDanychModule.cs" />
+    <Compile Include="Configuration.cs" />
+    <Compile Include="KomunikacjaModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UzytkownikModule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Czat.Contract\Czat.Contract.csproj">
+      <Project>{60654377-b9f2-4154-921a-5c59d908ccab}</Project>
+      <Name>Czat.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Czat.HostWS\Czat.HostWS.csproj">
+      <Project>{a32ded68-c24c-48bc-b952-60103f26359e}</Project>
+      <Name>Czat.HostWS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Newsletter.Impl\Newsletter.Impl.csproj">
+      <Project>{4a60a8e0-7421-467b-b698-3994dca00d2d}</Project>
+      <Name>Newsletter.Impl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sklep.MagazynSklepu.Impl\Sklep.MagazynSklepu.Impl.csproj">
+      <Project>{4c4b51d5-65e0-4453-891c-a1b6cd6cdaca}</Project>
+      <Name>Sklep.MagazynSklepu.Impl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sklep.UI.Komunikator\Sklep.UI.Komunikator.csproj">
+      <Project>{d561d7a8-e492-40d2-97af-f817e840e59c}</Project>
+      <Name>Sklep.UI.Komunikator</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

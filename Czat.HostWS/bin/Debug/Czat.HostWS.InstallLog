@@ -1,0 +1,34 @@
+﻿Instalowanie zestawu 'D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.InstallLog
+   assemblypath = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe
+Trwa instalowanie usługi czatUsluga...
+Usługa czatUsluga została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog czatUsluga w dzienniku Application...
+Zatwierdzanie zestawu 'D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.InstallLog
+   assemblypath = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe
+Odinstalowywanie zestawu 'D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.InstallLog
+   assemblypath = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe
+Usuwanie źródła EventLog czatUsluga.
+Trwa usuwanie usługi czatUsluga z systemu...
+Usługa czatUsluga została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.InstallLog
+   assemblypath = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe
+Trwa instalowanie usługi czatUsluga...
+Usługa czatUsluga została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog czatUsluga w dzienniku Application...
+Zatwierdzanie zestawu 'D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.InstallLog
+   assemblypath = D:\probny program\Projekt\Czat.HostWS\bin\Debug\Czat.HostWS.exe

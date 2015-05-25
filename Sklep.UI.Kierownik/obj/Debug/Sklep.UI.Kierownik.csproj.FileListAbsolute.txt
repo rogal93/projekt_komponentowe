@@ -1,0 +1,12 @@
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.UI.Kierownik.dll
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.UI.Kierownik.pdb
+D:\probny program\Projekt\Sklep.UI.Kierownik\obj\Debug\Sklep.UI.Kierownik.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Sklep.UI.Kierownik\obj\Debug\Sklep.UI.Kierownik.KierownikControls.resources
+D:\probny program\Projekt\Sklep.UI.Kierownik\obj\Debug\Sklep.UI.Kierownik.csproj.GenerateResource.Cache
+D:\probny program\Projekt\Sklep.UI.Kierownik\obj\Debug\Sklep.UI.Kierownik.dll
+D:\probny program\Projekt\Sklep.UI.Kierownik\obj\Debug\Sklep.UI.Kierownik.pdb
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Contract.dll
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.MagazynContract.dll
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.MagazynSklepu.Impl.dll
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.MagazynContract.pdb
+D:\probny program\Projekt\Sklep.UI.Kierownik\bin\Debug\Sklep.MagazynSklepu.Impl.pdb

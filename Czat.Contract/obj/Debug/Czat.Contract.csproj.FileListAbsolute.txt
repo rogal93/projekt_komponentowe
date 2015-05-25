@@ -1,0 +1,5 @@
+D:\probny program\Projekt\Czat.Contract\bin\Debug\Czat.Contract.dll
+D:\probny program\Projekt\Czat.Contract\bin\Debug\Czat.Contract.pdb
+D:\probny program\Projekt\Czat.Contract\obj\Debug\Czat.Contract.csprojResolveAssemblyReference.cache
+D:\probny program\Projekt\Czat.Contract\obj\Debug\Czat.Contract.dll
+D:\probny program\Projekt\Czat.Contract\obj\Debug\Czat.Contract.pdb
